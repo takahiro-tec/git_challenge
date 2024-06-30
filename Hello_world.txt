@@ -1,2 +1,3 @@
 Hello world
 こんにちは！
+再見！
